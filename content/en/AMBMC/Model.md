@@ -1,7 +1,7 @@
 ---
 title: "Model"
 linkTitle: "Model"
-weight: 1
+weight: 2
 type: docs
 description: >
   15μm average mouse models in Waxholm space from 16.4T 30μm images
