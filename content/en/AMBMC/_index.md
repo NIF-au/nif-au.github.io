@@ -27,7 +27,7 @@ The Australian Mouse Brain Mapping Consortium (AMBMC) aims to provide researcher
 ## FSL atlas package
 An atlas packages including a default fitting procedure for FNIRT is now available here:
 
-[FSL Package <i class="fas fa-download"></i>](https://imaging.org.au/uploads/AMBMC/ambmc-c57bl6-FSL-atlas_v0.8.tar.gz)
+[FSL Package <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-FSL-atlas_v0.8.tar.gz)
 
 ## Online Atlas
 An online version of all the AMBMC labels for both web browsers and tablets is available via [tissuestack <i class="fas fa-external-link-alt"></i>](https://tissuestack.org)

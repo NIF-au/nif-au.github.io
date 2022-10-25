@@ -1,4 +1,4 @@
-baseURL = "https://imaging.qcif-cai-mouse-brain-ands.cloud.edu.au/"
+baseURL = "http://imaging.qcif-cai-mouse-brain-ands.cloud.edu.au/"
 title = "imaging.org.au"
 disablePathToLower = true
 # Language settings
@@ -120,7 +120,7 @@ version = "0.0"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://imaging.org.au"
+# url_latest_version = ""
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
 # github_repo = "https://github.com/google/docsy-example"
