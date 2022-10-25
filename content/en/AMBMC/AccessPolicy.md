@@ -1,6 +1,6 @@
 ---
 title: "AccessPolicy"
-linkTitle: "AccessPolicy"w
+linkTitle: "AccessPolicy"
 weight: 8
 type: docs
 description: >
