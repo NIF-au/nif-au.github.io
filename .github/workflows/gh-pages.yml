@@ -1,0 +1,54 @@
+name: github pages
+
+on:
+  push:
+    branches:
+      - master  # Set a branch to deploy
+  pull_request:
+  repository_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: recursive  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      # - name: Change baseURL (if fork)
+      #   if: github.repository != 'NIF-au/imaging.org.au'
+      #   run: sed -i "s|https://imaging.org.au/|https://${GITHUB_REPOSITORY}/|g" config.toml
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.104.3'
+          extended: true
+          
+      - name: Setup Node
+        uses: actions/setup-node@v3
+
+      - name: Cache dependencies
+        uses: actions/cache@v1
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+            
+      - run: npm ci
+      
+      - name: Build
+        run: hugo --minify
+
+      # - name: Add custom domain
+      #   if: github.repository == 'NIF-au/imaging.org.au'
+      #   run: cp ./static/CNAME ./public/CNAME
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/hugo-docsy'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
