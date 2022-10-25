@@ -17,12 +17,12 @@ The Australian Mouse Brain Mapping Consortium (AMBMC) aims to provide researcher
 
 | Link                            | Strain   | Description                              |
 |---------------------------------|----------|------------------------------------------|
-| [Model](../Model)               | c57bl/6j | Average mouse structural model           |
-| [Hippocampus](../Hippocampus)   | c57bl/6j | Average mouse model Hippocampus labels   |
-| [Cerebellum](../Cerebellum)     | c57bl/6j | Average mouse model Cerebelum labels     |
-| [Cortex](../Cortex)             | c57bl/6j | Average mouse model Cortex labels        |
-| [BasalGanglia](../BasalGanglia) | c57bl/6j | Average mouse model Basal Ganglia labels |
-| [Diencephalon](../Diencephalon) | c57bl/6j | Average mouse model Diencephalon labels  |
+| [Model](Model)               | c57bl/6j | Average mouse structural model           |
+| [Hippocampus](Hippocampus)   | c57bl/6j | Average mouse model Hippocampus labels   |
+| [Cerebellum](Cerebellum)     | c57bl/6j | Average mouse model Cerebelum labels     |
+| [Cortex](Cortex)             | c57bl/6j | Average mouse model Cortex labels        |
+| [BasalGanglia](BasalGanglia) | c57bl/6j | Average mouse model Basal Ganglia labels |
+| [Diencephalon](Diencephalon) | c57bl/6j | Average mouse model Diencephalon labels  |
 
 ## FSL atlas package
 An atlas packages including a default fitting procedure for FNIRT is now available here:
