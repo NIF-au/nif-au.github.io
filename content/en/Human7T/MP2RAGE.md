@@ -8,12 +8,13 @@ description: >
   MP2RAGE T1-weighted average 7T model
 ---
 
+## Downloads
 View online and download the model in MINC or NiFTI format here:
 
-## MP2RAGE model
+### MP2RAGE model
 mp2rageModel_L13_work03-plus-hippocampus-7T-sym-norm-mincanon_v0.8 [ [View model online <i class="fas fa-external-link-alt"></i>](http://tissuestack.org/desktop.html?ds=42&plane=z&x=0.175&y=-11.525&z=24.375&zoom=5) | [mnc <i class="fas fa-download"></i>](/uploads/Human7T/mp2rageModel_L13_work03-plus-hippocampus-7T-sym-norm-mincanon_v0.8.mnc) | [nii <i class="fas fa-download"></i>](/uploads/Human7T/mp2rageModel_L13_work03-plus-hippocampus-7T-sym-norm-mincanon_v0.8.nii) ]
 
-## Citing this model:
+## Citing this model
 {{% pageinfo %}}
 Bollmann, Steffen, Andrew Janke, Lars Marstaller, David Reutens, Kieran O’Brien, and Markus Barth. “MP2RAGE T1-weighted average 7T model” January 1, 2017. doi:10.14264/uql.2017.266
 {{% /pageinfo %}}

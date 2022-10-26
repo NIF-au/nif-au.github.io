@@ -8,12 +8,13 @@ description: >
   Turbo Spin Echo average 7T model
 ---
 
+## Downloads
 View online and download the model in MINC or NiFTI format here:
 
-## TSE model in MP2RAGE model space (registered using contrast matching and cross correlation)
+### TSE model in MP2RAGE model space (registered using contrast matching and cross correlation)
 tseModelInMP2RAGEspaceCMACC_L15_hippocampus-TSE-7T-sym-mincanon_v0.8 [ [View model online <i class="fas fa-external-link-alt"></i>](http://tissuestack.org/desktop.html?ds=40&plane=y&x=26.775&y=0.903&z=-8.325&zoom=8) | [mnc <i class="fas fa-download"></i>](/uploads/Human7T/tseModelInMP2RAGEspaceCMACC_L15_hippocampus-TSE-7T-sym-mincanon_v0.8.mnc) | [nii <i class="fas fa-download"></i>](/uploads/Human7T/tseModelInMP2RAGEspaceCMACC_L15_hippocampus-TSE-7T-sym-mincanon_v0.8.nii) ]
 
-## TSE model raw
+### TSE model raw
 tseModel_L15_hippocampus-TSE-7T-sym-mincanon_v0.8 [ [View model online <i class="fas fa-external-link-alt"></i>](http://tissuestack.org/desktop.html?ds=38&plane=y&x=27.11&y=-0.2&z=0.2&zoom=5) | [mnc <i class="fas fa-download"></i>](/uploads/Human7T/tseModel_L15_hippocampus-TSE-7T-sym-mincanon_v0.8.mnc) | [nii <i class="fas fa-download"></i>](/uploads/Human7T/tseModel_L15_hippocampus-TSE-7T-sym-mincanon_v0.8.nii) ]
 
 ## Citing this model:

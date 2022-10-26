@@ -8,9 +8,10 @@ description: >
   PETRA average 7T model
 ---
 
+## Downloads
 View online and download the model in MINC or NiFTI format here:
 
-## PETRA average 7T model
+### PETRA average 7T model
 petraModel_L11_asym-mincanon_v0.8 [ [View model online <i class="fas fa-external-link-alt"></i>](http://tissuestack.org/desktop.html?ds=43&plane=z&x=27.25&y=-11.75&z=33&zoom=7) | [mnc <i class="fas fa-download"></i>](/uploads/Human7T/petraModel_L11_asym-mincanon_v0.8.mnc) | [nii <i class="fas fa-download"></i>](/uploads/Human7T/petraModel_L11_asym-mincanon_v0.8.nii) ]
 
 ## Acquisition and processing details

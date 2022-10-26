@@ -8,12 +8,13 @@ description: >
   GRE and QSM average 7T model
 ---
 
+## Downloads
 View online and download the model in MINC or NiFTI format here:
 
-## GRE model
+### GRE model
 greModel_L14_gre-7T-weightedMeanOfAllEchoes-asym-mincanon_v0.8 [ [View model online <i class="fas fa-external-link-alt"></i>](http://tissuestack.org/desktop.html?ds=30&plane=z&x=20.917&y=18.87&z=-18.45&zoom=4) | [mnc <i class="fas fa-download"></i>](/uploads/Human7T/greModel_L14_gre-7T-weightedMeanOfAllEchoes-asym-mincanon_v0.8.mnc) | [nii <i class="fas fa-download"></i>](/uploads/Human7T/greModel_L14_gre-7T-weightedMeanOfAllEchoes-asym-mincanon_v0.8.nii) ]
 
-## QSM model
+### QSM model
 qsmModel_L14_gre-7T-weightedMeanOfAllEchoes-asym-mincanon_v0.8 [ [View model online <i class="fas fa-external-link-alt"></i>](http://tissuestack.org/desktop.html?ds=34&plane=z&x=24.939&y=1.35&z=-12.45&zoom=6) | [mnc <i class="fas fa-download"></i>](/uploads/Human7T/qsmModel_L14_gre-7T-weightedMeanOfAllEchoes-asym-mincanon_v0.8.mnc) | [nii <i class="fas fa-download"></i>](/uploads/Human7T/qsmModel_L14_gre-7T-weightedMeanOfAllEchoes-asym-mincanon_v0.8.nii) ]
 
 ## Citing this model:

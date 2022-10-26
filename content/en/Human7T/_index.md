@@ -23,8 +23,8 @@ The increase in resolution and signal from the modelling process means that we c
 
 There are currently 4 models available.
 
-| Link                  | Description                       |
-|-----------------------|-----------------------------------|
+| Link               | Description                       |
+|--------------------|-----------------------------------|
 | [MP2RAGE](MP2RAGE) | MP2RAGE T1 style model            |
 | [GRE/QSM](QSM)     | Model generated from QSM data     |
 | [TSE](TSE)         | Turbo Spin Echo Hippocampal model |
@@ -36,7 +36,6 @@ Janke AL, O'Brien K, Bollmann S, Kober T, Marstaller L, Barth M. A 7T Human Brai
 {{% /pageinfo %}}
 
 A copy of the poster can be downloaded [here <i class="fas fa-download"></i>](/uploads/Human7T/ISMRM2016-janke-et-al.pdf)
-
 
 ![poster-preview.png](poster-preview.png)
 
