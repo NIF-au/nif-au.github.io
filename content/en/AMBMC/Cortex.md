@@ -3,6 +3,7 @@ title: "Cortex"
 linkTitle: "Cortex"
 weight: 5
 type: docs
+hide_summary: true
 description: >
   A segmentation protocol and MRI atlas of the C57BL/6J mouse neocortex
 ---

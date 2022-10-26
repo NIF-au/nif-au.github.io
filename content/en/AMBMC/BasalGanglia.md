@@ -3,6 +3,7 @@ title: "BasalGanglia"
 linkTitle: "BasalGanglia"
 weight: 3
 type: docs
+hide_summary: true
 description: >
   An MRI atlas of the mouse Basal Ganglia
 ---

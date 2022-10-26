@@ -3,6 +3,7 @@ title: "PETRA"
 linkTitle: "PETRA"
 weight: 5
 type: docs
+hide_summary: true
 description: >
   PETRA average 7T model
 ---

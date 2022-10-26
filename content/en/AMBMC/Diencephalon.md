@@ -3,6 +3,7 @@ title: "Diencephalon"
 linkTitle: "Diencephalon"
 weight: 7
 type: docs
+hide_summary: true
 description: >
   An MRI atlas of the mouse Diencephalon
 ---

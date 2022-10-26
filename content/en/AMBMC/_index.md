@@ -3,6 +3,8 @@ title: "Australian Mouse Brain Mapping Consortium"
 linkTitle: "AMBMC"
 weight: 10
 type: docs
+toc_hide: true
+hide_summary: true
 menu:
   main:
     weight: 10

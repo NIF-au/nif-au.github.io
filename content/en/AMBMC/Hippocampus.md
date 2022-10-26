@@ -3,6 +3,7 @@ title: "Hippocampus"
 linkTitle: "Hippocampus"
 weight: 6
 type: docs
+hide_summary: true
 description: >
   Hippocampal formation: MR image segmentation guide
 ---

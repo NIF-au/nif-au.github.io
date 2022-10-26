@@ -3,6 +3,7 @@ title: "Cerebellum"
 linkTitle: "Cerebellum"
 weight: 4
 type: docs
+hide_summary: true
 description: >
   Segmentation of the C57BL/6J mouse cerebellum in magnetic resonance images
 ---

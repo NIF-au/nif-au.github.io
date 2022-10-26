@@ -3,6 +3,7 @@ title: "MP2RAGE"
 linkTitle: "MP2RAGE"
 weight: 2
 type: docs
+hide_summary: true
 description: >
   MP2RAGE T1-weighted average 7T model
 ---
