@@ -10,8 +10,6 @@ menu:
     weight: 10
 ---
 
-![ambc-web-logo.png](ambc-web-logo.png)
-
 ## Our Objectives
 The Australian Mouse Brain Mapping Consortium (AMBMC) aims to provide researchers with access to a national facility to characterise their mouse models of neurological disease. The AMBMC will use state-of-the-art imaging, computational anatomy and image analysis to enable multi-dimensional statistical comparisons of brain anatomy between the mouse model and background strain. The AMBMC was funded by an National Health and Medical Research Council Enabling Grant (436673).
 
@@ -69,6 +67,8 @@ Please fill out this application_form.docx Δ in order to use the facilities of 
 If you have any specific enquiries, please email the authors on their respective pages.
 
 ## About
+
+![ambc-web-logo.png](ambc-web-logo.png)
 
 The Australian Mouse Brain Mapping Consortium is funded through the Enabling Grant Scheme of the National Health and Medical Research Council of Australia (NHMRC). The Consortium is a national network comprising four nodes based in Melbourne, Brisbane and Sydney. These nodes include the involvement of Monash University, the Howard Florey Institute, the University of Queensland (Queensland Brain Institute and the Centre for Advanced Imaging), and the Prince of Wales Medical Research Institute.
 

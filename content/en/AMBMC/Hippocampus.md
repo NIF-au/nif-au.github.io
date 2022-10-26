@@ -13,7 +13,8 @@ High-resolution MR images were acquired using a 16.4T imaging system and the hip
 ## Method
 Segmentation was based chiefly on the atlases of Franklin and Paxinos (2008), and Dong (2008). Please note, segmentation includes correction to region defined as perirhinal cortex in mouse, not shown in these atlases.
 
-## Download
+## Downloads
+Download the data in MINC or NiFTI format here
 
 ### Model
 ambmc-c57bl6-model-nonsym_v0.8 [ [mnc <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-model-nonsym_v0.8-mnc.tar.gz) | [nii <i class="fas fa-download"></i>](/uploads/AMBMC/ambmc-c57bl6-model-nonsym_v0.8-nii.tar.gz) ]
@@ -27,7 +28,10 @@ If you use this data please cite
 Richards K, Watson C, Buckley RF, Kurniawan ND, Yang Z, Keller MD, Beare R, Bartlett PF, Egan GF, Galloway GJ, Paxinos G, Petrou S, Reutens DC. Segmentation of the mouse hippocampal formation in magnetic resonance images. Neuroimage. 2011 Oct 1;58(3):732-40. doi: 10.1016/j.neuroimage.2011.06.025. Epub 2011 Jun 17.
 {{% /pageinfo %}}
 
-[Pubmed Link <i class="fas fa-external-link-alt"></i>](https://pubmed.ncbi.nlm.nih.gov/21704710/)
+For more details about the segmentation please see [Pubmed Link <i class="fas fa-external-link-alt"></i>](https://pubmed.ncbi.nlm.nih.gov/21704710/)
 
 ## Preview
 ![Hippocampus_Image.jpg](../Hippocampus_Image.jpg)
+
+<!-- atlas (with labels)
+Use the buttons as a navigational tool for regions of the hippocampal formation (HF). Move the mouse over the left hemisphere of MR images and segmented image to identify HF structures. Note: structures that appear on right hemisphere only are labelled. -->
