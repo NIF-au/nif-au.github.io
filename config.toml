@@ -1,4 +1,4 @@
-baseURL = "http://imaging.qcif-cai-mouse-brain-ands.cloud.edu.au/"
+baseURL = "http://imaging.org.au/"
 title = "imaging.org.au"
 disablePathToLower = true
 # Language settings
