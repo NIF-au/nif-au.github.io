@@ -230,3 +230,8 @@ enable = false
     name = "Tissuestack"
     weight = 40
     url = "https://tissuestack.org"
+
+[[menu.main]]
+    name = "Radiotracer Finder"
+    weight = 50
+    url = "https://radiotracers.imaging.org.au"
