@@ -8,6 +8,8 @@ hide_summary: true
 menu:
   main:
     weight: 10
+aliases:
+    - /AMBMC/AMBMC/
 ---
 
 ## Our Objectives
