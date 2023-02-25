@@ -6,6 +6,8 @@ type: docs
 menu:
   main:
     weight: 20
+aliases:
+    - /Human7T/Human7T/
 ---
 
 ![Human-7t-preview.png](Human-7t-preview.png)
