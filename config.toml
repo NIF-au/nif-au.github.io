@@ -214,6 +214,7 @@ enable = false
 # hugo module configuration
 
 [module]
+  proxy = "direct"
   # uncomment line below for temporary local development of module
   # replacements = "github.com/google/docsy -> ../../docsy"
   [module.hugoVersion]
