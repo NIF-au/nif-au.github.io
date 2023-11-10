@@ -1,14 +1,13 @@
-+++
-title = "imaging.org.au"
-linkTitle = "imaging.org.au"
-
-+++
+---
+title: imaging.org.au
+linkTitle: imaging.org.au
+---
 
 {{< blocks/cover title="Imaging data and tools from NIF" image_anchor="center" height="auto" color="dark" >}}
 <img src = "front-page-images.jpg" style="height:100px;" alt="front-page-images" />
 {{< /blocks/cover >}}
 
-{{< blocks/section color="primary" >}}
+{{< blocks/section color="white" type="row" >}}
 
 {{% blocks/feature icon="fa-solid fa-caret-down" title="AMBMC" url="AMBMC" %}}
 The Australian Mouse Brain Mapping Consortium (AMBMC) aims to provide researchers with access to a national facility to characterise their mouse models of neurological disease
