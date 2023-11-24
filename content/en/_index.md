@@ -29,7 +29,7 @@ Look for radiotracers available in Australia, verify their availability, link wi
 {{< /blocks/section >}}
 
 {{< blocks/lead color="dark" >}}
-This website is a repository for larger projects that release data, the official website of the NIF is <a href="https://www.anif.org.au">www.anif.org.au</a>. Service uptimes found <a href="https://stats.uptimerobot.com/vr719fE3jY">here</a>
+This website is a repository for larger projects that release data, the official website of the NIF is <a href="https://www.anif.org.au">www.anif.org.au</a>. 
 {{< /blocks/lead >}}
 
 <!--
