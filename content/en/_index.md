@@ -3,7 +3,7 @@ title: imaging.org.au
 linkTitle: imaging.org.au
 ---
 
-{{< blocks/cover title="Imaging data and tools from NIF" image_anchor="center" height="auto" color="dark" >}}
+{{< blocks/cover title="Imaging data and tools from NIF" image_anchor="center" height="max" color="dark" >}}
 <img src = "front-page-images.png" style="height:100px;" alt="front-page-images" />
 {{< /blocks/cover >}}
 
@@ -26,12 +26,12 @@ Imaging data management, analysis and processing tools
 
 {{< /blocks/section >}}
 
-{{< blocks/lead color="dark" >}}
+<!-- {{< blocks/lead color="dark" >}}
 <p>This website is a repository for informatics output from the ANIF.
 </p>
 <p>The official website of the Australian National Imaging Facility is <a href="https://www.anif.org.au">www.anif.org.au</a>.</p>
 {{< /blocks/lead >}}
-
+ -->
 <!--
 {{< blocks/section color="primary" >}}
 The NIF site for imaging data
