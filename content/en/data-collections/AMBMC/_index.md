@@ -3,13 +3,12 @@ title: "Australian Mouse Brain Mapping Consortium"
 linkTitle: "AMBMC"
 weight: 10
 type: docs
-toc_hide: true
-hide_summary: true
-menu:
-  main:
-    weight: 10
+toc_hide: false
+hide_summary: false
 aliases:
     - /AMBMC/AMBMC/
+    - /AMBMC/
+description: "Mouse brain atlases"
 ---
 
 ## Our Objectives

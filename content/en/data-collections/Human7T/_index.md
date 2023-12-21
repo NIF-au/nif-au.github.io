@@ -3,11 +3,12 @@ title: "Human 7T cortical atlases"
 linkTitle: "Human 7T"
 weight: 10
 type: docs
-menu:
-  main:
-    weight: 20
+toc_hide: false
+hide_summary: false
 aliases:
     - /Human7T/Human7T/
+    - /Human7T/
+description: "Human 7T cortical atlases"
 ---
 
 ![Human-7t-preview.png](Human-7t-preview.png)

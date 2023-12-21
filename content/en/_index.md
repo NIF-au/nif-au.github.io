@@ -9,28 +9,26 @@ linkTitle: imaging.org.au
 
 {{< blocks/section color="white" type="row" >}}
 
-{{% blocks/feature icon="fa-solid fa-caret-down" title="AMBMC" url="AMBMC" %}}
-The Australian Mouse Brain Mapping Consortium (AMBMC) aims to provide researchers with access to a national facility to characterise their mouse models of neurological disease
+{{% blocks/feature icon="fa-solid fa-hard-drive" title="Data Collections" url="data-collections" %}}
+Imaging data collections
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-solid fa-caret-down" title="Human 7T" url="Human7T" %}}
-A collection of 7T human brain MRI models. These are built using a Minimum Deformation Averaging technique and have resolutions below 0.3mm isotropic. Multiple contrasts are included
+{{% blocks/feature icon="fa-solid fa-display" title="Platforms & Services" url="platforms-services" %}}
+Data repositories, analysis platforms
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-solid fa-caret-down" title="Tissuestack" url="https://tissuestack.org" %}}
-Tissue Stack is an open source web based image viewer which allows the user to 
-view 3D data as 2D cross sections
+{{% blocks/feature icon="fa-solid fa-code" title="Software Tools" url="software-tools" %}}
+Imaging data management, analysis and processing tools
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-solid fa-caret-down" title="Radiotracer Finder" url="https://radiotracers.imaging.org.au" %}}
-Look for radiotracers available in Australia, verify their availability, link with the experts and build up your successful research and service
+{{% blocks/feature icon="fa-solid fa-question" title="About" url="About" %}}
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}
 
-{{< blocks/lead color="dark" >}}
+<!-- {{< blocks/lead color="dark" >}}
 This website is a repository for larger projects that release data, the official website of the NIF is <a href="https://www.anif.org.au">www.anif.org.au</a>. 
-{{< /blocks/lead >}}
+{{< /blocks/lead >}} -->
 
 <!--
 {{< blocks/section color="primary" >}}

@@ -1,5 +1,5 @@
 baseURL = "http://imaging.org.au/"
-title = "imaging.org.au"
+title = "anif.imaging.org.au"
 disablePathToLower = true
 # Language settings
 contentDir = "content/en"
@@ -60,7 +60,7 @@ id = "G-9RCCK80ZV8"
 
 [languages]
 [languages.en]
-title = "imaging.org.au"
+title = "anif.imaging.org.au"
 description = "The NIF site for imaging data"
 languageName ="English"
 # Weight used for sorting.
@@ -141,7 +141,7 @@ version = "0.0"
 algolia_docsearch = false
 
 # Enable Lunr.js offline search
-offlineSearch = false
+offlineSearch = true
 
 # Enable syntax highlighting and copy buttons on code blocks with Prism
 prism_syntax_highlighting = false
@@ -159,7 +159,7 @@ navbar_translucent_over_cover_disable = true
 # Enable to show the side bar menu in its compact state.
 sidebar_menu_compact = false
 # Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-sidebar_search_disable = true
+sidebar_search_disable = false
 
 # Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
 # This feature depends on [services.googleAnalytics] and will be disabled if "services.googleAnalytics.id" is not set.
@@ -227,12 +227,12 @@ enable = false
     path = "github.com/google/docsy/dependencies"
     disable = false    
 
-[[menu.main]]
-    name = "Tissuestack"
-    weight = 40
-    url = "https://tissuestack.org"
+# [[menu.main]]
+#     name = "Tissuestack"
+#     weight = 40
+#     url = "https://tissuestack.org"
 
-[[menu.main]]
-    name = "Radiotracer Finder"
-    weight = 50
-    url = "https://radiotracers.imaging.org.au"
+# [[menu.main]]
+#     name = "Radiotracer Finder"
+#     weight = 50
+#     url = "https://radiotracers.imaging.org.au"
