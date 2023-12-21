@@ -22,4 +22,4 @@ A flexible and scalable data analysis environment for reproducible neuroimaging 
 ## Radiotracer Finder
 https://radiotracers.imaging.org.au
 
-Radiotracer Finder app connects producers and users of radioisotopes and radiotracers
+Look for radiotracers available in Australia, verify their availability, link with the experts and build up your successful research and service

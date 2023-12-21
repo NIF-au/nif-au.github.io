@@ -26,9 +26,11 @@ Imaging data management, analysis and processing tools
 
 {{< /blocks/section >}}
 
-<!-- {{< blocks/lead color="dark" >}}
-This website is a repository for larger projects that release data, the official website of the NIF is <a href="https://www.anif.org.au">www.anif.org.au</a>. 
-{{< /blocks/lead >}} -->
+{{< blocks/lead color="dark" >}}
+<p>This website is a repository for informatics output from the ANIF.
+</p>
+<p>The official website of the Australian National Imaging Facility is <a href="https://www.anif.org.au">www.anif.org.au</a>.</p>
+{{< /blocks/lead >}}
 
 <!--
 {{< blocks/section color="primary" >}}
