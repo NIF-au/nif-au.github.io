@@ -10,12 +10,12 @@ aliases:
 ---
 
 ## Australian Imaging Service
-https://tissuestack.org
+https://australian-imaging-service.github.io/
 
 The Australian Imaging Service (AIS) is a national platform for secure imaging (predominately clinical, preclinical, veterinary, and archaeological) management, analysis, informatics, and machine learning, led by the University of Sydney in partnership and with co-investment from the Australian Research Data Commons (ARDC), the National Imaging Facility (NIF), and 10 other universities and research organizations.
 
 ## NeuroDesk
-https://radiotracers.imaging.org.au
+https://neurodesk.org
 
 A flexible and scalable data analysis environment for reproducible neuroimaging with Neurodesk.
 
