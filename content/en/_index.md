@@ -21,7 +21,7 @@ Data repositories, analysis platforms
 Imaging data management, analysis and processing tools
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-solid fa-question" title="About" url="About" %}}
+{{% blocks/feature icon="fa-solid fa-question" title="About" url="about" %}}
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}
